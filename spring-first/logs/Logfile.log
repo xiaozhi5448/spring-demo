@@ -1,0 +1,20 @@
+2023-09-24 23:13:44,033 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68df9280
+2023-09-24 23:13:44,093 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 1 bean definitions from class path resource [bean.xml]
+2023-09-24 23:13:44,108 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2023-09-24 23:13:44,125 INFO o.l.d.UserTest [main] completed
+2023-10-14 23:04:46,498 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68df9280
+2023-10-14 23:04:46,575 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 1 bean definitions from class path resource [bean.xml]
+2023-10-14 23:04:46,591 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2023-10-14 23:04:46,611 INFO o.l.d.UserTest [main] completed
+2023-10-14 23:07:12,586 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68df9280
+2023-10-14 23:07:12,671 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 1 bean definitions from class path resource [bean.xml]
+2023-10-14 23:07:12,688 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2023-10-14 23:07:12,708 INFO o.l.d.UserTest [main] completed
+2023-10-14 23:07:46,702 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68df9280
+2023-10-14 23:07:46,789 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 1 bean definitions from class path resource [bean.xml]
+2023-10-14 23:07:46,805 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2023-10-14 23:07:46,831 INFO o.l.d.UserTest [main] completed
+2023-10-14 23:08:36,016 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68df9280
+2023-10-14 23:08:36,090 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 1 bean definitions from class path resource [bean.xml]
+2023-10-14 23:08:36,102 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'user'
+2023-10-14 23:08:36,123 INFO o.l.d.UserTest [main] completed
